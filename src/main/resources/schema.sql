@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS players;
-
 CREATE TABLE IF NOT EXISTS players (
     player_id VARCHAR(255) PRIMARY KEY,
     birth_year INT,
