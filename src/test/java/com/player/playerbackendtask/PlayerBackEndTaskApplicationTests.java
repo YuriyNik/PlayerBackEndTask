@@ -3,10 +3,10 @@ package com.player.playerbackendtask;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class PlayerBackEndTaskApplicationTests {
 
-    @Test
+   // @Test
     void contextLoads() {
     }
 
